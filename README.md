@@ -1,1 +1,2 @@
-#Some details...
+# This is a read me
+Some lovely details
